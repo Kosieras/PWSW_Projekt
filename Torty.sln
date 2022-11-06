@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torty", "Project\Torty.csproj", "{AA23EC0D-FA2C-4BD5-AE51-9ECEDC899DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA23EC0D-FA2C-4BD5-AE51-9ECEDC899DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA23EC0D-FA2C-4BD5-AE51-9ECEDC899DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA23EC0D-FA2C-4BD5-AE51-9ECEDC899DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA23EC0D-FA2C-4BD5-AE51-9ECEDC899DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80CEECE8-7EDF-4240-9A9E-D8F887171200}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.StandardHeader = $1
+		description = Test
+	EndGlobalSection
+EndGlobal
